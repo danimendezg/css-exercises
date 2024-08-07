@@ -1,0 +1,13 @@
+.common {
+    font-family: Helvetiva, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.yes {
+    color: white;
+    background-color: black;
+}
+
+.no {
+    background-color: yellow;
+}
